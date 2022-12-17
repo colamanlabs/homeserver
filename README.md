@@ -22,7 +22,7 @@
 |VGA| GeForce® GTX 1070 G1 Gaming 8G | - |
 |랜카드| EFM ipTIME PX1000 PCI-E 기가비트 랜카드 | - |
 |파워서플라이| topower TOP-800WB 80PLUS BRONZE Single Rail | - |
-|ODD| topower TOP-800WB 80PLUS BRONZE Single Rail | - |
+|ODD| LD DVD-RW | - |
 |케이스| 잘만 Z9 Plus | - |
 |기타| 120GB SSD 2개 추가 | - |
 
